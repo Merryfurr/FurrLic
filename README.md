@@ -1,0 +1,2 @@
+# FurrLic
+A license
